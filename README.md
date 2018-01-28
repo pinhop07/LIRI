@@ -60,13 +60,13 @@ node liri.js
 ```
 
 Available functions:
-* > twitter
+* twitter
 
-* > spotify
+* spotify
 
-* > omdb
+* omdb
 
-* > random
+* random
 
 Running the following commands in your terminal will do the following:
 ```
@@ -118,7 +118,7 @@ Running the following commands in your terminal will do the following:
 spotify, "Hey Jude"
 ```
 
-* This would call the spotifyThis function and pass in "Hey Jude" as the song.
+* This would call the spotifyThis function and pass in 'Hey Jude' as the song.
 
 * This should work for any function and parameter you use.
 
