@@ -1,0 +1,30 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "bin": {
+    "liri": "./liri.js"
+  },
+  "description": "LIRI is like SIRI.  It is a command line NodeJS script that takes in parameters and outputs data.",
+  "main": "liri.js",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.71.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinhop07/LIRI"
+  },
+  "author": "Paul Pinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinhop07/LIRI/issues"
+  },
+  "homepage": "https://github.com/pinhop07/LIRI#readme"
+}
