@@ -86,8 +86,6 @@ Running the following commands in your terminal will do the following:
 	* album that the song is a part of
 	* song name
 
-* if no song is provided then the program will output information for the song 'Computer Love' by Zapp by default
-
 ```
 > omdb > 'movie name'
 ```
@@ -104,8 +102,6 @@ Running the following commands in your terminal will do the following:
 	* Rotten Tomatoes Rating
 	* Rotten Tomatoes URL
 
-* if no movie is provided then the program will output information for the movie 'WarGames' by default
-
 ```
 > random
 ```
@@ -115,7 +111,7 @@ Running the following commands in your terminal will do the following:
 * Currently in random.txt, the following text is there:
 
 ```
-spotify, "Hey Jude"
+spotify, 'Hey Jude'
 ```
 
 * This would call the spotifyThis function and pass in 'Hey Jude' as the song.
