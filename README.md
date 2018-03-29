@@ -130,4 +130,4 @@ spotify, "Hey Jude"
 * Terminal/Git Bash
 
 # Copyright
-(C) Paul Pinho 2018. All Rights Reserved.
+Paul Pinho © 2018. All Rights Reserved.
